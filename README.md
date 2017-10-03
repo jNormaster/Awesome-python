@@ -1,2 +1,3 @@
-# Awesome-python
-A collection of my python programs
+### **Awesome Python**
+
+A collection of my awesome Python programs
