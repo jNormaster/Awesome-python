@@ -5,3 +5,8 @@ A collection of my awesome Python programs
 - [NN](https://github.com/jNormaster)
   - [NN General Resources](https://github.com/jNormaster)
     - [NN General Tutorials](https://github.com/jNormaster)
+
+	
+- [Math](#math)
+  - [Jacobi method](#jacobi)
+    - [py-simple-matrix-calc](https://github.com/jNormaster/py-simple-matrix-calc)	
