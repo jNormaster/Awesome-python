@@ -5,11 +5,11 @@ A collection of my awesome Python programs
 ## Math
   - Jacobi method
     - [py-simple-matrix-calc](https://github.com/jNormaster/py-simple-matrix-calc)
-  - Euler / Mod Euler / Heun / Newton method
+  - Euler / Modified Euler / Heun / Newton method
     - [py-simple-ode-calc](https://github.com/jNormaster/py-simple-ode-calc/blob/master/odeCalc.py)
 	
 ## Algorithms
-  - Knapsack problem
-    - [..](#)
   - Travelling salesman problem
     - [py-simple-tsp](https://github.com/jNormaster/py-simple-tsp)    
+  - Knapsack problem
+    - [..](#)
