@@ -12,4 +12,4 @@ A collection of my awesome Python programs
   - Knapsack problem
     - [..](#)
   - Travelling salesman problem
-    - [..](#)    
+    - [py-simple-tsp](https://github.com/jNormaster/py-simple-tsp)    
