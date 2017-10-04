@@ -11,3 +11,5 @@ A collection of my awesome Python programs
 ## Algorithms
   - Knapsack problem
     - [..](#)
+  - Travelling salesman problem
+    - [..](#)    
