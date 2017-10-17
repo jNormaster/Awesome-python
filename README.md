@@ -13,3 +13,7 @@ A collection of my awesome Python programs
     - [py-simple-tsp](https://github.com/jNormaster/py-simple-tsp)    
   - Knapsack problem
     - [..](#)
+
+## Machine learning
+  - Simple neural network
+    - [py-simple-nn](https://github.com/jNormaster/py-simple-nn)
